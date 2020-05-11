@@ -1,6 +1,6 @@
 # Yeast_Ionome_Metabolome
 
-This repository contains materials for the paper [**Extraction and integration of genetic networks from short-profile omic datasets**], by J. Iacovacci et al (under review).
+This repository contains materials for the paper [**Extraction and integration of genetic networks from short-profile omic datasets**], by J. Iacovacci et al..
 
 ## Scripts
 * *cosM.m* : function to measure the Mahalanobis cosine between the N observations of M correlated variables in a dataset.
