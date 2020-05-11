@@ -3,11 +3,11 @@
 This repository contains materials for the paper [**Extraction and integration of genetic networks from short-profile omic datasets**], by J. Iacovacci et al..
 
 ## Scripts
+* *multilink_analysis.m* : script to compute a basic multilink analysis of the Yeast Ionome-Metabolome multiplex network.
+
 * *cosM.m* : function to measure the Mahalanobis cosine between the N observations of M correlated variables in a dataset.
 
 * *cosH.m* : function to measure the hybrid-Mahalanobis cosine between the N observations of M correlated variables in a dataset.
-
-* *multilink_analysis.m* : script to compute a basic multilink analysis of the Yeast Ionome-Metabolome multiplex network.
 
 
 ## Networks
@@ -27,7 +27,7 @@ The following files included in the repository contain the Yeast Ionome-Metabolo
  ## Data
 The following data folders and files included in the repository contain datasets:
 
-* *Synthetic_Dataset* : contains the files correspondng to the synthetic datasets generated for the analysis. 
+* *Synthetic_data* : contains the files correspondng to the synthetic datasets generated for the analysis. 
   
   
   
