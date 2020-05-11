@@ -29,7 +29,6 @@ The following data folders and files included in the repository contain datasets
 
 * *Synthetic_Dataset* : contains the files correspondng to the synthetic datasets generated for the analysis. 
   
-* *profiles_all_datasets.mat* : contains all datasets in matlab format used to genearete the multiplex network (to be released upon manuscript acceptance).
   
   
   
