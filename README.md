@@ -11,15 +11,15 @@ This repository contains materials for the paper [**Extraction and integration o
 
 
 ## Networks
-The following folders and files included in the repository contain the Yeast Ionome-Metabolome network structures:
+The following files included in the repository contain the Yeast Ionome-Metabolome multiplex network:
 
-* *COSM_multiplex* : contains the files correspondng to the network layers of the Yeast Ionome-Metabolome multiplex network (ionome knockout, ionome oevrexpression, metabolome amino acids) extracted by using the Mahalanobis cosine. Link weights correspond to the rank of the correlation values. 
+* *yeast_ionome_metabolome_multiplex_cosM.txt* : edge lists of the layers of the Yeast Ionome-Metabolome multiplex network (ionome knockout, ionome oevrexpression, metabolome amino acids) extracted by using the Mahalanobis cosine. Link weights correspond to the rank of the correlation values. 
   
-* *COSH_multiplex* : contains the files correspondng to the network layers of the Yeast Ionome-Metabolome multiplex network (ionome knockout, ionome oevrexpression, metabolome amino acids) extracted by using the hybrid-Mahalanobis cosine. Link weights correspond to the rank of the correlation values.
+* *yeast_ionome_metabolome_multiplex_cosH.txt* : edge lists of the layers of the Yeast Ionome-Metabolome multiplex network (ionome knockout, ionome oevrexpression, metabolome amino acids) extracted by using the hybrid-Mahalanobis cosine. Link weights correspond to the rank of the correlation values. 
   
-* *COS_multiplex* : contains the files correspondng to the network layers of the Yeast Ionome-Metabolome multiplex network (ionome knockout, ionome oevrexpression, metabolome amino acids) extracted by using the cosine. Link weights correspond to the rank of the correlation values.
+* *yeast_ionome_metabolome_multiplex_cos.txt* : edge lists of the layers of the Yeast Ionome-Metabolome multiplex network (ionome knockout, ionome oevrexpression, metabolome amino acids) extracted by using the cosine. Link weights correspond to the rank of the correlation values. 
 
-* *PCC_multiplex* : contains the files correspondng to the network layers of the Yeast Ionome-Metabolome multiplex network (ionome knockout, ionome oevrexpression, metabolome amino acids) extracted by using the Pearson's coefficient. Link weights correspond to the rank of the correlation values.
+* *yeast_ionome_metabolome_multiplex_PCC.txt* : edge lists of the layers of the Yeast Ionome-Metabolome multiplex network (ionome knockout, ionome oevrexpression, metabolome amino acids) extracted by using the Pearson's coefficient. Link weights correspond to the rank of the correlation values. 
     
 * *nodes_list.txt* : contains the gene names (ORFs) corresponding to the nodes in the multiplex networks. 
   
