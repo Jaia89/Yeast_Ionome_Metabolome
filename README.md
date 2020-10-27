@@ -5,9 +5,9 @@ This repository contains materials for the paper [**Extraction and integration o
 ## Scripts
 * *multilink_analysis.m* : script to compute a basic multilink analysis of the Yeast Ionome-Metabolome multiplex network.
 
-* *cosM.m* : function to measure the Mahalanobis cosine between the N observations of M correlated variables in a dataset.
+* *cosM.m* : function to measure the Mahalanobis cosine between the N observations of M correlated variables in a dataset (N>>M).
 
-* *cosH.m* : function to measure the hybrid-Mahalanobis cosine between the N observations of M correlated variables in a dataset.
+* *cosH.m* : function to measure the hybrid-Mahalanobis cosine between the N observations of M correlated variables in a dataset (N>>M).
 
 
 ## Networks
@@ -26,6 +26,8 @@ The following files included in the repository contain the Yeast Ionome-Metabolo
  
  ## Data
 The following data folders and files included in the repository contain datasets:
+
+* *zprofiles_all_datasets* : contains z-score profiles for all mutants in the ionome and metabolome datasets. 
 
 * *Synthetic_data* : contains the files correspondng to the synthetic datasets generated for the analysis. 
   
